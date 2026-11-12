@@ -124,3 +124,6 @@ node sql.js "INSERT INTO Guests (name, phone) VALUES ('Aarav', '9876543210');"
 npm run sql
 ```
 *(Note: Popular VS Code extensions like "SQLite Viewer" run queries inside an in-memory browser sandbox and do not save to disk upon closing. Use Option A or Option B for guaranteed disk persistence.)*
+
+developer - Anish 
+Developer 2 - aBHIJEET
